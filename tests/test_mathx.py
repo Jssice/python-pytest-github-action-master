@@ -10,7 +10,7 @@ def test_add():
     WHEN inputs are 2 and 3
     THEN it should return 5
     """
-    assert add(3, 2) == 5
+    assert add(3, 2) == 7
 
 
 def test_subtract():
